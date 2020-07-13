@@ -1,3 +1,3 @@
 # THE-NEW-PROJECT
-First non-sense project.
+First no non-sense project.
 This is the first project on github.
